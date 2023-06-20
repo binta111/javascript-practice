@@ -1,8 +1,9 @@
-let a=
+const data=
 {
     name:"abc",
     email: "abc@gmail.com",
     level:"phd"
 
 }
-console.log(a)
+console.log(data)
+console.log(data.name);
